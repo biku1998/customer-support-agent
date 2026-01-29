@@ -17,7 +17,8 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit",
     "clean": "rm -rf dist",
-    "smoke": "node --import tsx ./src/smoke.ts"
+    "smoke": "node --env-file=../../.env.local --import tsx ./src/smoke.ts",
+    "test-schema": "node --env-file=../../.env.local --import tsx ./src/test-schema.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.48.1"
@@ -25,6 +26,7 @@
   "devDependencies": {
     "@pkg/config": "workspace:*",
     "@types/node": "^22.13.1",
+    "dotenv": "^17.2.3",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
   }
