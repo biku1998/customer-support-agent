@@ -13,10 +13,16 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit",
     "clean": "rm -rf dist",
-    "inspect": "node --import tsx ./src/techqa/inspect.ts"
+    "inspect": "node --import tsx ./src/techqa/inspect.ts",
+    "ingest": "node --env-file=../../.env.local --import tsx ./bin/ingest.ts",
+    "test-similarity": "node --env-file=../../.env.local --import tsx ./bin/test-similarity.ts"
   },
   "dependencies": {
-    "@pkg/shared": "workspace:*"
+    "@mastra/core": "^1.0.4",
+    "@pkg/db": "workspace:^",
+    "@pkg/shared": "workspace:*",
+    "ai": "^6.0.59",
+    "openai": "^6.17.0"
   },
   "devDependencies": {
     "@pkg/config": "workspace:*",
