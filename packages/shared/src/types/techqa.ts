@@ -3,75 +3,93 @@
  * Based on the IBM TechQA dataset format
  */
 
-/** A question-answer pair from training_Q_A.json or dev_Q_A.json */
-export interface QAPair {
-  /** Unique question ID */
+// ============================================================================
+// Raw data types (as they appear in the JSON files)
+// ============================================================================
+
+/** Raw Q&A entry from training_Q_A.json or dev_Q_A.json */
+export interface RawQAPair {
   QUESTION_ID: string;
-  /** The question text */
   QUESTION_TITLE: string;
-  /** Extended question body (optional) */
-  QUESTION_TEXT?: string;
-  /** The answer text */
-  ANSWER: string;
-  /** The ID of the technote that contains the answer */
-  DOCUMENT: string;
-  /** Start character offset of the answer in the source document */
-  START_OFFSET?: number;
-  /** End character offset of the answer in the source document */
-  END_OFFSET?: number;
+  QUESTION_TEXT: string;
+  DOCUMENT: string; // "-" if unanswerable
+  ANSWER: string; // "-" if unanswerable
+  START_OFFSET: string; // "-" if unanswerable
+  END_OFFSET: string; // "-" if unanswerable
+  ANSWERABLE: "Y" | "N";
+  DOC_IDS: string[]; // Candidate document IDs for retrieval
 }
 
-/** A section within a technote from training_dev_technotes.sections.json */
-export interface TechnoteSection {
-  /** Technote ID (e.g., "swg12345678") */
-  id: string;
-  /** Section index within the technote */
-  section_idx: number;
-  /** Section title/heading */
-  title: string;
-  /** Section content text */
+/** Raw section within a technote */
+export interface RawSection {
   text: string;
+  id: string; // Section heading like "PROBLEM(ABSTRACT)" or "NONE"
+  start: number;
+  end: number;
 }
 
-/** A full technote document from training_dev_technotes.json */
-export interface Technote {
-  /** Technote ID */
+/** Raw technote entry from training_dev_technotes.sections.json */
+export interface RawTechnote {
   id: string;
-  /** Document title */
-  title: string;
-  /** Full document text */
   text: string;
-  /** Product tags/categories */
-  product?: string[];
+  title: string;
+  sections: RawSection[];
 }
 
-/** Parsed section with computed stable ID */
+/** The technotes file is keyed by technote ID */
+export type RawTechnotesMap = Record<string, RawTechnote>;
+
+// ============================================================================
+// Parsed/normalized types (for use in the application)
+// ============================================================================
+
+/** Parsed section with stable composite ID */
 export interface ParsedSection {
   /** Stable ID: technoteId#sectionIdx */
   id: string;
   /** Parent technote ID */
   technoteId: string;
-  /** Section index */
+  /** Section index (0-based) */
   sectionIdx: number;
-  /** Section title */
-  title: string;
-  /** Section content */
+  /** Section heading (e.g., "PROBLEM(ABSTRACT)", "SYMPTOM", "NONE") */
+  heading: string;
+  /** Section content text */
   content: string;
+  /** Character offsets in original document */
+  span: {
+    start: number;
+    end: number;
+  };
+}
+
+/** Parsed technote with flattened sections */
+export interface ParsedTechnote {
+  /** Technote ID */
+  id: string;
+  /** Document title */
+  title: string;
+  /** Full document text */
+  fullText: string;
+  /** Parsed sections */
+  sections: ParsedSection[];
 }
 
 /** Parsed QA pair with normalized fields */
 export interface ParsedQA {
   /** Question ID */
   id: string;
-  /** Question text (title + body combined) */
+  /** Question title */
+  title: string;
+  /** Full question text (title + body) */
   question: string;
-  /** Answer text */
+  /** Answer text (empty if unanswerable) */
   answer: string;
-  /** Gold technote ID for retrieval evaluation */
-  goldTechnoteId: string;
-  /** Answer offsets in source document (if available) */
-  answerSpan?: {
-    start: number;
-    end: number;
-  };
+  /** Whether this question is answerable */
+  answerable: boolean;
+  /** Gold technote ID for retrieval evaluation (null if unanswerable) */
+  goldTechnoteId: string | null;
+  /** Answer character offsets in gold document (null if unanswerable) */
+  answerSpan: { start: number; end: number } | null;
+  /** Candidate document IDs for retrieval */
+  candidateDocIds: string[];
 }

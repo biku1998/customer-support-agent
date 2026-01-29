@@ -1,0 +1,27 @@
+{
+  "name": "@pkg/ingest",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist",
+    "inspect": "node --import tsx ./src/techqa/inspect.ts"
+  },
+  "dependencies": {
+    "@pkg/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "@pkg/config": "workspace:*",
+    "@types/node": "^22.13.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

@@ -1,9 +1,15 @@
-// Types
+// Types - raw data formats
 export type {
-  QAPair,
-  TechnoteSection,
-  Technote,
+  RawQAPair,
+  RawSection,
+  RawTechnote,
+  RawTechnotesMap,
+} from "./types/techqa.js";
+
+// Types - parsed/normalized formats
+export type {
   ParsedSection,
+  ParsedTechnote,
   ParsedQA,
 } from "./types/techqa.js";
 
