@@ -140,9 +140,9 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
 
-# custom
-raw-data
-dev-plans
-dev-docs
+# Custom
+raw-data/
+dev-plans/
+dev-docs/
 .DS_Store
-bin
+bin/
