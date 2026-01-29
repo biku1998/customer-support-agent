@@ -1,0 +1,29 @@
+{
+  "name": "@pkg/shared",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./types/*": {
+      "types": "./dist/types/*.d.ts",
+      "import": "./dist/types/*.js"
+    },
+    "./text/*": {
+      "types": "./dist/text/*.d.ts",
+      "import": "./dist/text/*.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "@pkg/config": "workspace:*",
+    "typescript": "^5.7.3"
+  }
+}
