@@ -1,0 +1,58 @@
+query_id,gold_technote_id,citation_count,valid_citations,invalid_citations,is_abstention,has_valid_citation,all_citations_valid,tokens,question_preview,answer_preview
+DEV_Q180,swg21964873,0,,,1,0,1,1015,"Help with Security Bulletin: Security Vulnerability in IBM PureApplication Syste","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q161,swg21610844,0,,,1,0,1,1266,"Netcool/Impact 7.1.0: The StateChange value being used by the OMNIbusEventReader","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q283,swg21592093,0,,,1,0,1,1119,"Hello - I recently installed SPSS 20, my temporary period for running spss has e","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q217,,0,,,1,0,1,3565,"What process do i neet to follow to upgrade our SPSS Modeler deployment (concurr","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q234,swg21666489,0,,,1,0,1,1310,"TCR 2.1.1 Fixpack 2 installation failed
+
+I need to install Fixpack 2 on my TCR 2","I don't have enough information to answer this question.   To assist you better, it would be helpful"
+DEV_Q215,swg21647231,0,,,1,0,1,2038,"When should I use conversation sharing in DataPower MQ queue managers?
+
+MQ versi","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q164,swg21647231,0,,,1,0,1,2378,"When should I use conversation sharing in DataPower MQ queue managers?
+
+MQ versi","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q053,swg21635341,0,,,1,0,1,2181,"After uninstalling Portal 8.0 only from my WAS environment my subsequent attempt","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q022,swg22005352,0,,,1,0,1,2105,"where is the websphere application server 9.0.0.4 fix for developers
+
+I am using","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q077,swg21592093,0,,,1,0,1,2016,"I need to transfer my SPSS 24 licence to a new computer
+
+I need to transfer my S","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q096,,2,swg21591133#4;swg22013228#3,,0,1,1,1147,"I am using persistent messages, but I never got the messages. How can I determin","To determine what happened to the persistent messages, you should check the SystemOut.log for each m"
+DEV_Q309,,0,,,1,0,1,985,"Help with Security Bulletin: Vulnerability in Diffie-Hellman ciphers known as Lo","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q223,,0,,,1,0,1,1713,"Can I use Chrome browser for viewing Monitor 801 Cognos report viewer widget ?
+
+","I don't have enough information to answer this question. Additional information about compatibility "
+DEV_Q212,,0,,,1,0,1,1232,"Datacap 9.0.1 Application Manager not saving database configs
+
+Hi All,
+
+ 
+I have","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q121,swg24017225,0,,,1,0,1,4851,"Job Execution Node for IIB V10
+
+I'm looking for a way in IIB V10 to execute/invo","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q090,swg21608473,0,,,1,0,1,1971,"RTW eclipse license error
+
+I get a RTW eclipse license error on IM stating serve","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q046,swg22002589,0,,,1,0,1,1529,"Cannot delete folder in Box collab folder
+
+In an ICM 5.3.0 environment integrate","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q280,,0,,,1,0,1,2496,"Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10","I don't have enough information to answer this question. Additional information about the support st"
+DEV_Q266,swg24037641,0,,,1,0,1,2931,"How to install Packaging utility?","I don't have enough information to answer this question. Additional information about the Packaging "
+DEV_Q263,swg21675742,0,,,1,0,1,2704,"How can I check the health of my IBM PureApplication System?
+Are there steps to ","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q150,,0,,,1,0,1,2511,"Is Java 7 supported for BPM?
+
+What versions of BPM, if any,  support Java 7?","I don't have enough information to answer this question. Additional information about the specific v"
+DEV_Q102,swg21965783,0,,,1,0,1,3119,"Event Log Hashing - Performance?
+
+I'm curious how much performance is affected b","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q264,,0,,,1,0,1,5618,"Gettting error CRIMC1020E: zip im.properties not found during BPM Fix Pack insta","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q036,,0,,,1,0,1,1662,"Port number error starting 9.0 Launcher
+
+I'm attempting to start up v9.0 for the","I don't have enough information to answer this question. Additional information that might help incl"
+DEV_Q243,swg21684407,0,,,1,0,1,1306,"Using cobol copybooks
+
+Sometimes, there will be errors/fields missing in typetre","I don't have enough information to answer this question. Additional information that might help incl"

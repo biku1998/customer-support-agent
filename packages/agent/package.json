@@ -1,5 +1,5 @@
 {
-  "name": "@pkg/eval",
+  "name": "@pkg/agent",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -13,15 +13,12 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit",
     "clean": "rm -rf dist",
-    "retrieval": "node --env-file=../../.env.local --import tsx ./bin/eval.ts",
-    "grounded": "node --env-file=../../.env.local --import tsx ./bin/grounded.ts"
+    "demo": "node --env-file=../../.env.local --import tsx ./bin/demo.ts"
   },
   "dependencies": {
-    "@pkg/agent": "workspace:^",
     "@pkg/db": "workspace:^",
-    "@pkg/ingest": "workspace:^",
     "@pkg/retrieval": "workspace:^",
-    "@pkg/shared": "workspace:*"
+    "openai": "^6.17.0"
   },
   "devDependencies": {
     "@pkg/config": "workspace:*",

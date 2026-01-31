@@ -15,6 +15,31 @@ importers:
         specifier: ^5.7.3
         version: 5.9.3
 
+  packages/agent:
+    dependencies:
+      '@pkg/db':
+        specifier: workspace:^
+        version: link:../db
+      '@pkg/retrieval':
+        specifier: workspace:^
+        version: link:../retrieval
+      openai:
+        specifier: ^6.17.0
+        version: 6.17.0(ws@8.19.0)(zod@4.3.6)
+    devDependencies:
+      '@pkg/config':
+        specifier: workspace:*
+        version: link:../config
+      '@types/node':
+        specifier: ^22.13.1
+        version: 22.19.7
+      tsx:
+        specifier: ^4.19.2
+        version: 4.21.0
+      typescript:
+        specifier: ^5.7.3
+        version: 5.9.3
+
   packages/config: {}
 
   packages/db:
@@ -41,6 +66,9 @@ importers:
 
   packages/eval:
     dependencies:
+      '@pkg/agent':
+        specifier: workspace:^
+        version: link:../agent
       '@pkg/db':
         specifier: workspace:^
         version: link:../db
