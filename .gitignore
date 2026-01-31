@@ -145,3 +145,6 @@ raw-data/
 dev-plans/
 dev-docs/
 .DS_Store
+
+# Mastra
+.mastra/

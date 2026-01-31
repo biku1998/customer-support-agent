@@ -22,3 +22,8 @@ export {
   type GenerateAnswerOptions,
   type GeneratedAnswer,
 } from "./generateAnswer.js";
+
+// Mastra agent
+export { copilotAgent } from "./copilot.agent.js";
+export { retrieveTool } from "./tools/index.js";
+export { mastra } from "./mastra/index.js";

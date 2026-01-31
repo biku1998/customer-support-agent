@@ -13,16 +13,20 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit",
     "clean": "rm -rf dist",
-    "demo": "node --env-file=../../.env.local --import tsx ./bin/demo.ts"
+    "demo": "node --env-file=../../.env.local --import tsx ./bin/demo.ts",
+    "dev": "mastra dev"
   },
   "dependencies": {
+    "@mastra/core": "^1.1.0",
     "@pkg/db": "workspace:^",
     "@pkg/retrieval": "workspace:^",
-    "openai": "^6.17.0"
+    "openai": "^6.17.0",
+    "zod": "^3.24.0"
   },
   "devDependencies": {
     "@pkg/config": "workspace:*",
     "@types/node": "^22.13.1",
+    "mastra": "^1.1.0",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
   }
