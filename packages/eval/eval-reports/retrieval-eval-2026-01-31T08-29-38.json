@@ -1,0 +1,291 @@
+{
+  "timestamp": "2026-01-31T08:29:38.256Z",
+  "options": {
+    "topK": 5,
+    "limit": 5
+  },
+  "aggregate": {
+    "totalQuestions": 5,
+    "answerableQuestions": 2,
+    "unanswerableQuestions": 3,
+    "k": 5,
+    "recallAtK": 0,
+    "mrr": 0,
+    "hits": 0,
+    "misses": 2
+  },
+  "details": [
+    {
+      "queryId": "DEV_Q000",
+      "question": "Web GUI 8.1 FP7 requires DASH 3.1.2.1 or later\n\nYou wanted to install Web GUI 8.1 FP7, but your DASH version does not meet the required version.\n\nIM 1.8 displayed the following:\n\n     ERROR: The installed IBM Dashboard Application Services Hub version is 3.1.0.3, but requires version 3.1.2.1 or later.",
+      "goldTechnoteId": "swg24042191",
+      "retrievedTechnoteIds": [
+        "swg24039742",
+        "swg21995591"
+      ],
+      "retrievedSections": [
+        {
+          "id": "swg24039742#15",
+          "technoteId": "swg24039742",
+          "heading": "Note",
+          "similarity": 0.49010430187919496,
+          "contentPreview": "Note that if enabled in DASH, rich hover will be shown for the same\nservices that support the rich hover in the TBSM 6.1.1 console. If \nconfigured for..."
+        },
+        {
+          "id": "swg21995591#0",
+          "technoteId": "swg21995591",
+          "heading": "NONE",
+          "similarity": 0.45968751248903705,
+          "contentPreview": "DASHL2; install ; version; JazzSM; 1.1.2.1; 1.1.3 TECHNOTE (FAQ)\n\n"
+        },
+        {
+          "id": "swg21995591#2",
+          "technoteId": "swg21995591",
+          "heading": "CAUSE",
+          "similarity": 0.45377760574550696,
+          "contentPreview": "CAUSE\n Jazz for Service Management extension for IBM WebSphere 8.5 is listed as version 1.1.2.1:\n[/support/docview.wss?uid=swg21995591&aid=1] [/suppor..."
+        },
+        {
+          "id": "swg24039742#14",
+          "technoteId": "swg24039742",
+          "heading": "NOTE",
+          "similarity": 0.443952391500985,
+          "contentPreview": "NOTE: If TIP 2.2.0.15 (version 1) was previously installed, you may\nencounter the following issues. Please refer to the following\nTechnotes for resolu..."
+        },
+        {
+          "id": "swg24039742#3",
+          "technoteId": "swg24039742",
+          "heading": "Note",
+          "similarity": 0.439538862677746,
+          "contentPreview": "Note: Whenever <ARCH> is used in the text of this readme, as part of the\nfilename of the Fix Pack package, it refers to, and can be\nsubstituted for on..."
+        }
+      ],
+      "metrics": {
+        "queryId": "DEV_Q000",
+        "goldTechnoteId": "swg24042191",
+        "rankOfGold": null,
+        "hit": false,
+        "reciprocalRank": 0
+      }
+    },
+    {
+      "queryId": "DEV_Q001",
+      "question": "What can be done about \"Too many open files\" messages in the DASH systemOut?\n\nWhat can be done about \"Too many open files\" messages in the DASH systemOut log on an AIX box?",
+      "goldTechnoteId": null,
+      "retrievedTechnoteIds": [
+        "swg21393660",
+        "swg21288640",
+        "swg21380855",
+        "swg21580345"
+      ],
+      "retrievedSections": [
+        {
+          "id": "swg21393660#2",
+          "technoteId": "swg21393660",
+          "heading": "RESOLVING THE PROBLEM",
+          "similarity": 0.522642192525606,
+          "contentPreview": "RESOLVING THE PROBLEM\nShould WebSphere Application Server Community Edition experience a perceived hang or performance degradation on the AIX operatin..."
+        },
+        {
+          "id": "swg21288640#0",
+          "technoteId": "swg21288640",
+          "heading": "NONE",
+          "similarity": 0.485275510483858,
+          "contentPreview": "AIX 6.1; AIX61Cert; AIX71Cert TECHNOTE (TROUBLESHOOTING)\n\n"
+        },
+        {
+          "id": "swg21380855#2",
+          "technoteId": "swg21380855",
+          "heading": "SYMPTOM",
+          "similarity": 0.476009207128661,
+          "contentPreview": "SYMPTOM\nDFHFC0304 [http://publibz.boulder.ibm.com/cgi-bin/bookmgr_OS390/BOOKS/dfhwg409/1.26.31] Dump taken due to a file control OPEN/CLOSE error.\n\nDF..."
+        },
+        {
+          "id": "swg21393660#1",
+          "technoteId": "swg21393660",
+          "heading": "PROBLEM(ABSTRACT)",
+          "similarity": 0.474530265494289,
+          "contentPreview": "PROBLEM(ABSTRACT)\n Collecting data for hang or performance degradation problems with WebSphere Application Server Community Edition on the AIX platfor..."
+        },
+        {
+          "id": "swg21580345#5",
+          "technoteId": "swg21580345",
+          "heading": "Note",
+          "similarity": 0.45335458358066505,
+          "contentPreview": "Note: When sending in logs for review, include any relevant screenshots, timestamps, userIds, etc. in order to expedite analysis of the issue. \n\nRelat..."
+        }
+      ],
+      "metrics": {
+        "queryId": "DEV_Q001",
+        "goldTechnoteId": null,
+        "rankOfGold": null,
+        "hit": false,
+        "reciprocalRank": 0
+      }
+    },
+    {
+      "queryId": "DEV_Q002",
+      "question": "Unable to open profile from P8 Content Engine Configuration manager (CMUI) on Redhat Linux 7.2, getting GPF and javacore dump.\n\nLaunch configmgr then try to open an existing profile. Once I click ok on the dialog box to\n\"Verify your application server setting before proceeding...\" Configuration manager would crash and GPF. I can see the javacore.txt and dmp file created.\nThe javacore.txt contains the following:\n\n0SECTION TITLE subcomponent dump routine NULL =============================== 1TICHARSET UTF-8 1TISIGINFO Dump Event \"gpf\" (00002000) received 1TIDATETIME Date: 2016/05/05 at 04:53:30 1TIFILENAME Javacore filename: /opt/IBM/FileNet/ContentEngine/tools/configure/javacore.20160505.045330.25035.0002.txt 1TIREQFLAGS Request Flags: 0x81 (exclusive+preempt) 1TIPREPSTATE Prep State: 0x100 (trace_disabled) 1TIPREPINFO Exclusive VM access not taken: data may not be consistent across javacore sections NULL ------------------------------------------------------------------------ 0SECTION GPINFO subcomponent dump routine NULL ================================ 2XHOSLEVEL OS Level : Linux 3.10.0-327.13.1.el7.x86_64 2XHCPUS Processors - 3XHCPUARCH Architecture : x86 3XHNUMCPUS How Many : 1 3XHNUMASUP NUMA is either not supported or has been disabled by user NULL\n1XHEXCPCODE J9Generic_Signal_Number: 00000004 1XHEXCPCODE Signal_Number: 0000000B 1XHEXCPCODE Error_Value: 00000000 1XHEXCPCODE Signal_Code: 00000080 1XHEXCPCODE Handler1: F72A2E6A 1XHEXCPCODE Handler2: F724D00A 1XHEXCPCODE InaccessibleAddress: 00000000 NULL\n1XHEXCPMODULE Module: /lib/libcairo.so.2 1XHEXCPMODULE Module_base_address: D55FC000\n\nThis is a Redhat Linux 7.2 environment with Content Platform Engine CPE 5.2.1.4.",
+      "goldTechnoteId": "swg21978390",
+      "retrievedTechnoteIds": [
+        "swg21392308",
+        "swg21393660",
+        "swg1IV70541",
+        "swg1IJ03852",
+        "swg21970741"
+      ],
+      "retrievedSections": [
+        {
+          "id": "swg21392308#2",
+          "technoteId": "swg21392308",
+          "heading": "SYMPTOM",
+          "similarity": 0.65436114940875,
+          "contentPreview": "SYMPTOM\nWebSphere core dumps while starting with the following javacore file entry:\n\n\n# Problematic frame:# C [libclntsh.so.10.1+0xb3e7d1] kpinclntrev..."
+        },
+        {
+          "id": "swg21393660#2",
+          "technoteId": "swg21393660",
+          "heading": "RESOLVING THE PROBLEM",
+          "similarity": 0.573921680450439,
+          "contentPreview": "RESOLVING THE PROBLEM\nShould WebSphere Application Server Community Edition experience a perceived hang or performance degradation on the AIX operatin..."
+        },
+        {
+          "id": "swg1IV70541#2",
+          "technoteId": "swg1IV70541",
+          "heading": "ERROR DESCRIPTION",
+          "similarity": 0.5606824828007839,
+          "contentPreview": "ERROR DESCRIPTION\n *  When a QBR report is created and saved, this causes the\n   presentation cache to be reloaded, then results on the\n   MAXLABELS b..."
+        },
+        {
+          "id": "swg1IJ03852#2",
+          "technoteId": "swg1IJ03852",
+          "heading": "ERROR DESCRIPTION",
+          "similarity": 0.558912243907915,
+          "contentPreview": "ERROR DESCRIPTION\n *  Error Message: ICH408I USER(U2) GROUP(G1   )\n   NAME(####################)\n     /tmp/javasharedresources/C290M4F1A64_memory_XYZU..."
+        },
+        {
+          "id": "swg21970741#2",
+          "technoteId": "swg21970741",
+          "heading": "SYMPTOM",
+          "similarity": 0.5378743730708591,
+          "contentPreview": "SYMPTOM\nBelow error displayed after logging in: \n\n\njava.lang.NullPointerException at com.filenet.wcm.apps.server.util.prefs.LabelConfiguration.getConf..."
+        }
+      ],
+      "metrics": {
+        "queryId": "DEV_Q002",
+        "goldTechnoteId": "swg21978390",
+        "rankOfGold": null,
+        "hit": false,
+        "reciprocalRank": 0
+      }
+    },
+    {
+      "queryId": "DEV_Q003",
+      "question": "Is there a way set a timeout for shell task?\n\nI have run into couple of shell task in Urbancode, for example start websphere server, or run a test.bat file using the shell task, The problem I have, though the task is successful executed, it keeps ruining this shell task and does not moving to the next task. Can I set a time out for the shell task",
+      "goldTechnoteId": null,
+      "retrievedTechnoteIds": [
+        "swg21153401",
+        "swg21590467"
+      ],
+      "retrievedSections": [
+        {
+          "id": "swg21153401#1",
+          "technoteId": "swg21153401",
+          "heading": "PROBLEM(ABSTRACT)",
+          "similarity": 0.499536514309853,
+          "contentPreview": "PROBLEM(ABSTRACT)\n Configuring the session timeout setting for ITIM in WebSphere \n\n"
+        },
+        {
+          "id": "swg21153401#0",
+          "technoteId": "swg21153401",
+          "heading": "NONE",
+          "similarity": 0.467670084972973,
+          "contentPreview": "session timeout web.xml websphere correctly TECHNOTE (TROUBLESHOOTING)\n\n"
+        },
+        {
+          "id": "swg21590467#3",
+          "technoteId": "swg21590467",
+          "heading": "ANSWER",
+          "similarity": 0.465287089347843,
+          "contentPreview": "ANSWER\nUse the \"ij utility\", which is bundled with Derby, to adjust the wait timeout parameter. \n\n 1. Start IJ by using the following command:\n    jav..."
+        },
+        {
+          "id": "swg21590467#1",
+          "technoteId": "swg21590467",
+          "heading": "QUESTION",
+          "similarity": 0.45570236180439505,
+          "contentPreview": "QUESTION\n How do I increase the Apache Derby Database Wait Timeout with IBM Rational Team Concert? \n\n"
+        },
+        {
+          "id": "swg21153401#3",
+          "technoteId": "swg21153401",
+          "heading": "RESOLVING THE PROBLEM",
+          "similarity": 0.449494221896967,
+          "contentPreview": "RESOLVING THE PROBLEM\nITIM 5.1 and ISIM 6.0 on WebSphere 6.x, 7.x, 8.x* \n\nIn the WebSphere Admin Console, navigate to Servers -> Application Servers -..."
+        }
+      ],
+      "metrics": {
+        "queryId": "DEV_Q003",
+        "goldTechnoteId": null,
+        "rankOfGold": null,
+        "hit": false,
+        "reciprocalRank": 0
+      }
+    },
+    {
+      "queryId": "DEV_Q004",
+      "question": "Error #2070\n\nI purchased the SPSS grad pack and put one of the licenses on one computer and another on this one. This computer crashed and I was forced to reformat the hard drive. Subsequently, I lost SPSS in the process. After reinstalling the program, when I attempted to open a data set I received this error:\n\nError # 2070 The application is unable to communicate properly with the license server. The license server may be down, or there may be other network-related communication or DNS issues interfering. This command is not executed. Specific symptom number: 3",
+      "goldTechnoteId": null,
+      "retrievedTechnoteIds": [
+        "swg21969064",
+        "swg1PM66053",
+        "swg21477392",
+        "swg21656901"
+      ],
+      "retrievedSections": [
+        {
+          "id": "swg21969064#3",
+          "technoteId": "swg21969064",
+          "heading": "CAUSE",
+          "similarity": 0.6332645038804721,
+          "contentPreview": "CAUSE\nSPSS Statistics is not able to find a valid license. Please verify you are using the correct authorization code version for your version of SPSS..."
+        },
+        {
+          "id": "swg1PM66053#2",
+          "technoteId": "swg1PM66053",
+          "heading": "ERROR DESCRIPTION",
+          "similarity": 0.627880282185028,
+          "contentPreview": "ERROR DESCRIPTION\n *  You have an N user network license for Statistics.  When the\n   N+1th user tries to launch Statistics client, they get an error\n..."
+        },
+        {
+          "id": "swg21969064#1",
+          "technoteId": "swg21969064",
+          "heading": "PROBLEM(ABSTRACT)",
+          "similarity": 0.54289886099703,
+          "contentPreview": "PROBLEM(ABSTRACT)\n I have installed IBM SPSS Statistics. When I launch the program, I get an error message that the maximum number of variables has be..."
+        },
+        {
+          "id": "swg21477392#1",
+          "technoteId": "swg21477392",
+          "heading": "PROBLEM(ABSTRACT)",
+          "similarity": 0.525037276003129,
+          "contentPreview": "PROBLEM(ABSTRACT)\n I have SPSS Server on a UNIX platform. I would like to connect to my DB2 6 or higher database using the DataDirect drivers distribu..."
+        },
+        {
+          "id": "swg21656901#2",
+          "technoteId": "swg21656901",
+          "heading": "SYMPTOM",
+          "similarity": 0.49345457553863903,
+          "contentPreview": "SYMPTOM\nIBM Sterling Connect:Direct (C:D) for Windows version 4.6.0.2 build 35, displays the error \n\nCSPA317E Error loading certificate private key rc..."
+        }
+      ],
+      "metrics": {
+        "queryId": "DEV_Q004",
+        "goldTechnoteId": null,
+        "rankOfGold": null,
+        "hit": false,
+        "reciprocalRank": 0
+      }
+    }
+  ]
+}

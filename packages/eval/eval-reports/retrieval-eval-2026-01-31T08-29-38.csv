@@ -1,0 +1,14 @@
+query_id,gold_technote_id,hit,rank_of_gold,reciprocal_rank,retrieved_technote_ids,question_preview
+DEV_Q000,swg24042191,0,,0.0000,swg24039742;swg21995591,"Web GUI 8.1 FP7 requires DASH 3.1.2.1 or later
+
+You wanted to install Web GUI 8.1 FP7, but your DASH"
+DEV_Q001,,0,,0.0000,swg21393660;swg21288640;swg21380855;swg21580345,"What can be done about ""Too many open files"" messages in the DASH systemOut?
+
+What can be done about"
+DEV_Q002,swg21978390,0,,0.0000,swg21392308;swg21393660;swg1IV70541;swg1IJ03852;swg21970741,"Unable to open profile from P8 Content Engine Configuration manager (CMUI) on Redhat Linux 7.2, gett"
+DEV_Q003,,0,,0.0000,swg21153401;swg21590467,"Is there a way set a timeout for shell task?
+
+I have run into couple of shell task in Urbancode, for"
+DEV_Q004,,0,,0.0000,swg21969064;swg1PM66053;swg21477392;swg21656901,"Error #2070
+
+I purchased the SPSS grad pack and put one of the licenses on one computer and another "

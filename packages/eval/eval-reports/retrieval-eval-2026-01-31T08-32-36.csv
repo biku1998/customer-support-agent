@@ -1,0 +1,763 @@
+query_id,gold_technote_id,hit,rank_of_gold,reciprocal_rank,retrieved_technote_ids,question_preview
+DEV_Q000,swg24042191,0,,0.0000,swg24039742;swg21995591,"Web GUI 8.1 FP7 requires DASH 3.1.2.1 or later
+
+You wanted to install Web GUI 8.1 FP7, but your DASH"
+DEV_Q001,,0,,0.0000,swg21393660;swg21288640;swg21380855;swg21580345,"What can be done about ""Too many open files"" messages in the DASH systemOut?
+
+What can be done about"
+DEV_Q002,swg21978390,0,,0.0000,swg21392308;swg21393660;swg1IV70541;swg1IJ03852;swg21970741,"Unable to open profile from P8 Content Engine Configuration manager (CMUI) on Redhat Linux 7.2, gett"
+DEV_Q003,,0,,0.0000,swg21153401;swg21590467,"Is there a way set a timeout for shell task?
+
+I have run into couple of shell task in Urbancode, for"
+DEV_Q004,,0,,0.0000,swg21969064;swg1PM66053;swg21477392;swg21656901,"Error #2070
+
+I purchased the SPSS grad pack and put one of the licenses on one computer and another "
+DEV_Q005,,0,,0.0000,swg1SE46234;swg1PI95953;swg21421672;swg1IV70541;swg1IX90144,"I am getting a random invalid handle exception for my MQ .NET client applicatoin.
+
+While running a M"
+DEV_Q006,,0,,0.0000,swg21580345;swg1PM04538;swg1HD89402,"After applying cumulative fix, why does xmlaccess use the base portal instead of the virtual portal "
+DEV_Q007,swg21625776,0,,0.0000,swg21458833;swg21996502;swg21050271;swg1IZ52966;swg24039742,"Which Socket Gateway should I be using with Netcool Omnibus (NOI) ?
+
+There are 2 versions of the gat"
+DEV_Q008,swg21412061,0,,0.0000,swg21468886;swg1IT07105;swg21656901;swg22014350,"How can I export a private key from DataPower Gateway Appliance?
+
+How can I export a private key fro"
+DEV_Q009,,0,,0.0000,swg24039742;swg1IV70541;swg1IT16940;swg21883636;swg21461735,"""The transaction log for database BPMDB is full"" error message is seen when running BPMInstallOfflin"
+DEV_Q010,swg21317981,0,,0.0000,swg1SE46234;swg21580345;swg21392308,"We transferred the database to an external database on our Portal 8.5 environment and now seeing err"
+DEV_Q011,swg21577379,0,,0.0000,swg21393660;swg21392308;swg1IJ03852;swg1PK46362;swg21599539,"How to proceed when jextract utility is throwing an OutOfMemory error ?
+
+I was getting a crash and w"
+DEV_Q012,swg21959723,0,,0.0000,swg1IJ03852;swg1PI08596;swg21969064;swg1PH00908;swg1PI39800,"I receive the following during UDX compilation Can't exec ""/nz/kit/bin/adm/nzudxcompile"": Argument l"
+DEV_Q013,swg21665766,0,,0.0000,swg24041476;swg24041472;swg24039742;swg22005400,"Additional steps to apply fix pack to Decision Center
+
+We are upgrading ODM 8.8.1 Decision Center to"
+DEV_Q014,swg21138332,0,,0.0000,swg1PI20344;swg1SE46234;swg21968790;swg1PM04538;swg24039742,"Installing fixpacks with Installation Manager - when did it change from using updateInstaller,  star"
+DEV_Q015,,0,,0.0000,swg21380855;swg1SE46234;swg1VM17818,"DFHTS0001 0C4 AKEA at offset 3A1E in DFHTSPT
+
+Why is my CICS region getting message DFHTS0001 report"
+DEV_Q016,swg21502095,0,,0.0000,swg1RS02449;swg21278833;swg1PM70736;swg21610199;swg21591133,"How to configure DC to look on a different App server for the SSP?
+
+I have a single Application serv"
+DEV_Q017,,0,,0.0000,swg24039742,"Can I perform a silent install of fix packs for IIB or WMB Toolkit?
+
+How do I perform a silent insta"
+DEV_Q018,,0,,0.0000,swg21650546;swg1PM70736;swg21461735;swg24039742;swg21215742,"Why am I getting error SqlIntegrityConstraintViolationException when deploying a process application"
+DEV_Q019,swg21700397,0,,0.0000,swg21959746;swg22011786;swg21996059;swg21996502;swg22003005,"Help with Security Bulletin : Multiple vulnerabilities in IBM Java Runtime affect IIB and WMB (CVE-2"
+DEV_Q020,,0,,0.0000,swg22008878;swg1PK08419;swg1IC92476,"ODR OOM issue
+
+I got ODR OOM after upgrading the WAS to v8553. No configuration or traffic load chan"
+DEV_Q021,swg21298897,0,,0.0000,swg21278833;swg24039742;swg21580345;swg1PM04538;swg21610199,"How to refresh a DataPower WebService Proxy which WSDL got changed?
+
+I have made changes to a WSDL s"
+DEV_Q022,swg22005352,0,,0.0000,swg1PI39800;swg1PI20344;swg22005400;swg1PK01871;swg1PM04538,"where is the websphere application server 9.0.0.4 fix for developers
+
+I am using the was 9.0.0.0 in "
+DEV_Q023,swg21433278,0,,0.0000,swg1RS02449;swg21650546;swg21580345,"No trace is logged in Decision Warehouse, and no records in EXECUTION_TRACES table for a certain rul"
+DEV_Q024,,0,,0.0000,swg1SE46234;swg21656901;swg21421672,"Why is my .NET client not connecting and the QMgr records a DBCS error (AMQ6048)?
+
+I upgraded to WMQ"
+DEV_Q025,swg21959588,0,,0.0000,swg22014350;swg1IZ98704;swg21960972;swg21498516;swg21380019,"How to import a certificate in ITCAM for Data Power ?
+
+How can I import a certificate in ITCAM for D"
+DEV_Q026,,0,,0.0000,swg22008878;swg1IC97095;swg21591133,"DNS cache is not updating even when DNS server is updated
+
+Datapower DNS is still showing old IP add"
+DEV_Q027,swg21618564,0,,0.0000,swg21672896;swg22015658,"How to create batches for bulk upload
+
+I am new in datacap 9.0 .I just started developing with datac"
+DEV_Q028,swg21975747,0,,0.0000,swg22003005;swg21996059;swg22013087;swg22011786,"Help with Security Bulletin: Multiple vulnerabilities have been identified in WebSphere Application "
+DEV_Q029,swg21496354,0,,0.0000,swg22008878;swg1RS02449;swg1PK08419;swg21981551,"Recurrent RES StaleConnectionException
+
+How to prevent rule execution failing because of recurrent S"
+DEV_Q030,swg21636533,0,,0.0000,swg21687696;swg21393660;swg21960879,"For HP-UX how to write verbose gc output to a log file other than the native_stdout?
+
+A customer ask"
+DEV_Q031,,0,,0.0000,swg1PM70736;swg1RS02449;swg21610199;swg21650546,"Unable to run Test Suites against clustered SSP from Decison Center console
+
+I have a clustered Deci"
+DEV_Q032,swg21994175,0,,0.0000,swg21572905;swg21498516;swg24041472,"IBM Content Navigator v2.0.3 is adding a .dat extension to a CSV file during Download action on a do"
+DEV_Q033,swg21269136,0,,0.0000,swg21959746;swg1HE12359;swg21296885;swg1IZ52966;swg21580345,"Limitations of sylog-TCP log target using DataPower Gateways
+
+I am trying to configure a log target "
+DEV_Q034,swg21413628,0,,0.0000,swg21393660;swg21580345;swg21392308;swg1PK46362,"Profiler for WebSphere 8
+
+Hi,
+
+We noticed that a was application server uses 1,4 Go of memory at sta"
+DEV_Q035,swg22013168,0,,0.0000,swg22013087;swg22003005;swg21996059;swg22011786,"Help with Security Bulletin: API Connect is affected by a Node.js denial of service vulnerability (C"
+DEV_Q036,,0,,0.0000,swg1SE46234;swg21477392;swg21599539;swg21964889;swg21380855,"Port number error starting 9.0 Launcher
+
+I'm attempting to start up v9.0 for the first time with one"
+DEV_Q037,,0,,0.0000,swg21685764;swg22013087;swg22003005;swg21959746;swg22011786,"Help with Action required for IIB H.E.V9 and WMB H.E. V8 for security vulnerabilities in Red Hat Lin"
+DEV_Q038,swg21451229,0,,0.0000,swg21153401;swg1PK08419,"ODM 8.7 TeamServer users active authoring rules and they get kicked out - transaction timeout or ses"
+DEV_Q039,swg21638268,0,,0.0000,swg1IC92476;swg1IT16940;swg21215742,"How do I upgrade my virtual DataPower Appliance from 5.0 firmware to 6.0+ firmware?
+
+When attempting"
+DEV_Q040,swg21600618,0,,0.0000,swg22003005;swg21428536;swg24039742;swg21610199,"Why Plug-in log file reports an error message after install & configure the WebSphere Plugin 8.5 ver"
+DEV_Q041,,0,,0.0000,swg1IZ98704;swg1IV60530,"Has ITCAM for J2EE 7.1.1 IF4 been released?"
+DEV_Q042,,0,,0.0000,swg22003005;swg21580345;swg1PI20344;swg21996059;swg21662022,"Why is my Portal 8.5 install saying it cannot detect WAS?
+
+When I try to install WebSphere PortaV8.5"
+DEV_Q043,swg24042656,0,,0.0000,swg24030694;swg24038805,"Where I can get ITNM 4.2.0.1 GA version download details with Part number?.
+
+How to download and ins"
+DEV_Q044,,0,,0.0000,swg22005400;swg21959746;swg22011786;swg21996059,"Help with Security Bulletin: IBM WebSphere MQ and IBM MQ Managed File Transfer is affected by an und"
+DEV_Q045,,0,,0.0000,swg21969064;swg1PM66053;swg21883636;swg21477392,"How can I get a new authorization code for my new computer?
+
+I purchased a new computer and would li"
+DEV_Q046,swg22002589,0,,0.0000,swg1IJ03852;swg21621401;swg1JR52434,"Cannot delete folder in Box collab folder
+
+In an ICM 5.3.0 environment integrated with Box, after se"
+DEV_Q047,swg22013294,0,,0.0000,swg21969064;swg1PM66053;swg24030694;swg21477392;swg21973794,"I need to move my perpetual license of SPSS v24 to my new machine.
+
+I have my authorization code fir"
+DEV_Q048,swg21685441,0,,0.0000,swg21964889;swg24030694,"Need to understand what exact counters are needed for the ITM IIS agent?
+
+Need to understand what ex"
+DEV_Q049,,0,,0.0000,swg21392308;swg21477392;swg21215742,"Why am I getting a DSRA7019W message when I try to use the Oracle 10g driver in WAS 8.5.5.x?
+
+I am g"
+DEV_Q050,swg21991890,0,,0.0000,swg21986535;swg1IZ37843;swg21671446,"Why AUTOMATIC value for NUM_IOSERVERS is changed after applying 10.5FP7?"
+DEV_Q051,swg21495799,0,,0.0000,swg21970741;swg21701017;swg21392308,"We got a NullPointerException when bootstrapping the object store or accessing Site Preferences/Acce"
+DEV_Q052,swg21500046,0,,0.0000,swg21960972;swg21656901;swg21428536;swg21610199,"Why do I still get ""certificate expired"" error after adding new certificate?
+
+The remote SSL vendor "
+DEV_Q053,swg21635341,0,,0.0000,swg21580345;swg24039742;swg21996059;swg22003005,"After uninstalling Portal 8.0 only from my WAS environment my subsequent attempts to install Portal "
+DEV_Q054,,0,,0.0000,swg1PI39800;swg21393660;swg1OA55845,"What are the mustgather for RDz integrated debugger issues or z/OS Debugger?
+
+What logs could be col"
+DEV_Q055,swg21412846,0,,0.0000,swg1IC97095;swg1PI08596;swg21461735;swg21477442,"Table """"."""" could not be found
+
+When doing a table mapping with DB2 as source, selecting a table whi"
+DEV_Q056,,0,,0.0000,swg1PH00908;swg1PM70736;swg1RS02449;swg21610199;swg21969653,"When I try to deploy an application on a cluster, why is it throwing an ADMA8019E error in the admin"
+DEV_Q057,,0,,0.0000,swg21685764;swg22013087;swg21959746;swg22011786;swg22003005,"Help with Action required for IIB H.E.V9 & WMB H.E. V8 for security vulnerabilities in Red Hat Linux"
+DEV_Q058,,0,,0.0000,swg21685764;swg22013087;swg22003005;swg21959746;swg22011786,"Help with Action required for IIB H.E. V9 & WMB H.E. V8 for security vulnerabilities in Red Hat Linu"
+DEV_Q059,,0,,0.0000,swg22003005;swg21996059;swg22011786;swg22013087,"Help with vulnerability have been identified in WebSphere Application Server shipped with WSRR
+
+I ne"
+DEV_Q060,,0,,0.0000,swg21380855;swg1SE46234;swg1PM58956,"DFHAP1203I and DFHSR0601 with 0C1 in EQA10OSM after upgrading to CICS TS 5.2
+
+Why is my CICS region "
+DEV_Q061,,0,,0.0000,swg21380855;swg21142296;swg1PM58956;swg1PI95953;swg1SE46234,"Why does my JVMSERVER remain in a ""BEING DISABLED""  state?
+
+When I try to disable a JVMSERVER it bec"
+DEV_Q062,,0,,0.0000,swg1PI20344;swg22005400;swg1SE46234;swg1PM04538;swg1IC92476,"Where can I find more details about WMB Fix Pack 8.0.0.5?
+
+Where can find more information about Web"
+DEV_Q063,swg21509510,1,1,1.0000,swg21509510;swg21621401,"Hide a page in dotedit step
+
+I am working on datacap 8.1 version. I have 2 pages in a batch. Page 1 "
+DEV_Q064,swg21995099,0,,0.0000,swg22005400;swg21959746;swg1PI95953;swg1IT16940,"Is MQ or MQ Appliance impacted by Sweet32 Birthday Attack if we are running triple-DES cipher.?"
+DEV_Q065,,0,,0.0000,swg21610199;swg21653261;swg21964889;swg21580345,"How do I enable my Applications to show up in the App Health view for the WAS agent?"
+DEV_Q066,swg22000947,0,,0.0000,swg21685764;swg22013087;swg22003005;swg21959746,"Help with Action required for IIIB V9 and WMB V8 Hypervisor Editions for security vulnerabilities in"
+DEV_Q067,swg21615427,0,,0.0000,swg1IV70541;swg21392308;swg21393660;swg21964889;swg21591133,"BPM AppTarget startup hangs during startup
+
+During startup of the apptarget, JVM hangs with the foll"
+DEV_Q068,swg21162896,0,,0.0000,swg21392308;swg1IX90144;swg1IV70541;swg1SE46234,"Getting java.lang.StackOverflowError,  how to resolve it?
+
+Getting the following StackOverflowError "
+DEV_Q069,,0,,0.0000,swg1SE46234;swg1PI95953;swg1PK66962;swg22005400,"Why is my MQ client application getting error AMQ9050 regarding  SYSTEM.PROTECTION.POLICY.QUEUE ?
+
+F"
+DEV_Q070,,0,,0.0000,swg21959746;swg22011786;swg22005400;swg22013087;swg21996502,"Help with Security Bulletin: Apache Commons FileUpload Vulnerabilities in IBM WebSphere MQ File Tran"
+DEV_Q071,swg21260969,0,,0.0000,swg1IZ98704;swg1SE46234;swg21650546;swg21656901,"Why is Connection Refused on the ITCAM Managing Server?
+
+ITCAM Data Collector connection to the Mana"
+DEV_Q072,swg22005345,0,,0.0000,swg21959746;swg22011786;swg21996059;swg22003005,"Help with Security Bulletin: Multiple vulnerabilities in IBM Java Runtime affect WMB and IIB
+
+I need"
+DEV_Q073,,0,,0.0000,swg21393660;swg21142296;swg1IV70541;swg1IC97095;swg1PM58956,"What should I do if I observed ""ghost queue building up"" issue?
+
+There are lots of ghost queues in t"
+DEV_Q074,swg21959169,0,,0.0000,swg21996059;swg22003005;swg21959746;swg22011786,"Help with Security Bulletin: Security Vulnerability in IBM WebSphere Application Server affects IBM "
+DEV_Q075,,0,,0.0000,swg21883636;swg21215742;swg21970741;swg22003005;swg1HE11710,"My BPM 8.5.5 system has internet access. But I cannot upgrade to 8.5.6 from IM directly
+
+I have a BP"
+DEV_Q076,,0,,0.0000,swg1IV60530;swg21461735,"Why is Oracle agent (rz) reporting listeners and services as 'Inactive' even when those are active?
+"
+DEV_Q077,swg21592093,0,,0.0000,swg21969064;swg1PM66053;swg21477392;swg21986535,"I need to transfer my SPSS 24 licence to a new computer
+
+I need to transfer my SPSS 24 license to a "
+DEV_Q078,,0,,0.0000,swg21685764;swg22013087,"WebSphere MQ Hypervisor Edition requires customer action for the GNU C library (glibc) vulnerabiliti"
+DEV_Q079,,0,,0.0000,swg21650546;swg1PM70736;swg21461735;swg1SE46234;swg21656901,"Why am I getting error SqlIntegrityConstraintViolationException when deploying a process application"
+DEV_Q080,swg21960062,0,,0.0000,swg1IY99864;swg21969653;swg21694202;swg21662022;swg1IV71904,"Why is the OUTPUT_TYPE specified in the properties file for the custom scripting feature ignored?
+
+W"
+DEV_Q081,,0,,0.0000,swg1IZ83730;swg21249980;swg21580345;swg21393660,"What are the files created in $TEMP on startup of IIB or WMB?
+
+What are the 0 byte files created in "
+DEV_Q082,swg22011695,0,,0.0000,swg21959746;swg22011786;swg22005400;swg21996059;swg21996502,"Help with Security Bulletin: IIB is affected by Web UI security vulnerability (CVE-2017-1694)
+
+I nee"
+DEV_Q083,,0,,0.0000,swg22003005;swg21685764;nas8N1020185,"How do you configure the IBM HTTP Server 7 to 8.5 on z/OS for Host On-Demand V11?
+
+The IBM HTTP Serv"
+DEV_Q084,,0,,0.0000,swg1IZ98704;swg21512700;swg1IV60530;swg21883636,"Is ITCAM for J2EE 7.1.1 agent supported on RHEL7.x?
+
+When I try to install IBM Tivoli Composite Appl"
+DEV_Q085,,0,,0.0000,swg1HD89402;swg1HE11710;swg21653261;swg21383270,"Event Dashboard breaks with Japanese filter
+
+Event Dashboard breaks when a filter is created with th"
+DEV_Q086,,0,,0.0000,swg1PI95953;swg21428536;swg21959746;swg27048798,"Upgraded to  IBM HTTP Server 7.0.0.41, is TLS 1.2 supported?
+
+We are recently upgraded to IBM HTTP S"
+DEV_Q087,,0,,0.0000,swg22005400;swg1SE46234;swg21408485;swg21685764,"Is WMB v7 compatible with MQ v8?
+
+This Q&A is abstracted from a PMR
+Planning a tiered upgrade, MQ th"
+DEV_Q088,swg21320206,0,,0.0000,swg1PK66962;swg21458833;swg21421672;swg1SE46234,"CQWEB  can\'t retrieve repository dropdown list options in RedHat Linux, how to deal with it ?
+
+I se"
+DEV_Q089,swg22002063,0,,0.0000,swg21996059;swg22011786;swg21959746;swg22005400;swg21996502,"Security Bulletin: Vulnerability identified in OpenSSL shipped with IBM API Connect (CVE-2016-8610)
+"
+DEV_Q090,swg21608473,0,,0.0000,swg1IZ98704;swg1PM66053;swg22003005;swg1IV67087;swg21215742,"RTW eclipse license error
+
+I get a RTW eclipse license error on IM stating server is available, but "
+DEV_Q091,,0,,0.0000,swg1PM70736;swg21477392;swg21672896;swg1RS02449;swg21278833,"Deploying RuleRunner on a separate server
+
+Hello everyone,
+
+I am trying to have a setup as follows:
+"
+DEV_Q092,,0,,0.0000,nas8N1020185;swg21392308,"What versions of WSAS using Oracle 12c are supported?"
+DEV_Q093,swg21696179,0,,0.0000,swg21883636;swg21995591,"How do I run the prerequisite scan for jazzSM?
+
+How do I run the prerequisite scan?"
+DEV_Q094,swg21638268,0,,0.0000,swg1IC92476;swg1IT16940;swg21215742,"How do I upgrade my virtual DataPower Appliance from 5.0 firmware to 6.0+ firmware?
+
+When attempting"
+DEV_Q095,,0,,0.0000,swg1PM04538;swg21653261;swg1PM58956;swg1PH00908;swg1HE11710,"Why do I get error when I try to save application in APMUI?
+
+I am using APMUI 7.7 IF1. Following err"
+DEV_Q096,,0,,0.0000,swg21591133;swg21421672;swg22013228;swg1IZ98704,"I am using persistent messages, but I never got the messages. How can I determine what happen to the"
+DEV_Q097,,0,,0.0000,swg21959746;swg22011786;swg21996059;swg22005400;swg21996502,"Security Bulletin: MQ Explorer directory created with owner '555' on Linux x86-64 vulnerability affe"
+DEV_Q098,swg22013955,0,,0.0000,swg21959746;swg22011786;swg22005400;swg22013087;swg22003005,"Help with Security Bulletin: Multiple Vulnerabilities identified in IBM Java SDK affect WSRR and WSR"
+DEV_Q099,swg21652265,0,,0.0000,swg1IV60530;swg1IZ98704;swg24030694;swg1SE46234,"Is ITCAM Agent for WebSphere Applications 7.2.0.0.7 available?"
+DEV_Q100,,0,,0.0000,swg27048798;swg1IV60530;swg21662022,"ITCAM Agent for WebSphere DataPower 7.1 agent support for TLS
+
+Does the ITCAM Agent for WebSphere Da"
+DEV_Q101,,0,,0.0000,swg21959746;swg22011786;swg21996059;swg22005400;swg21996502,"Help with Security Bulletin: WMB and IIB Toolkit cannot connect to a remote WMB broker or IIB node w"
+DEV_Q102,swg21965783,0,,0.0000,swg21964889;swg21393660;swg21960879;swg21959746,"Event Log Hashing - Performance?
+
+I'm curious how much performance is affected by hashing events and"
+DEV_Q103,,0,,0.0000,swg21153401;swg1PK01871,"How to resolve SessionBeanTimeoutException in WebSphere Application Server?
+
+In one of my j2EE-appli"
+DEV_Q104,,0,,0.0000,swg21215742;swg21599539;swg21653261,"Java plugin not loading into rhapsody
+
+I had installed rational rhapsody 8.2 in my machine. I tried "
+DEV_Q105,,0,,0.0000,swg21685764;swg22013087;swg21959746;swg22011786;swg22003005,"Help with Action required for IIB H.E. V9 & WMB H.E. V8 for security vulnerabilities in Red Hat Linu"
+DEV_Q106,swg21431301,0,,0.0000,swg21393660;swg21142296;swg1SE46234,"Why does WebSphere DataPower spike with a high CPU rate when a WebSphere MQ connection is unavailabl"
+DEV_Q107,,0,,0.0000,swg21421672;swg21610199;swg21650546;swg1IX90144;swg1SE46234,"Why the exception ""BO Service is not supported or disabled in this profile"" when trying to publish f"
+DEV_Q108,swg27048240,0,,0.0000,swg21883636;swg21512700;swg1SE46234;swg21685764;swg1IT16940,"Why do I get ""OSS version is not suitable for installation"" when attempting to install the MQ 5.3.1 "
+DEV_Q109,swg21995079,0,,0.0000,swg21959746;swg22011786;swg22005400;swg21996502;swg21996059,"Help with Security Bulletin: Authentication vulnerability affects IIB V10.0.0.4 onwards (CVE-2016-89"
+DEV_Q110,swg21220832,0,,0.0000,swg21392308;swg1PI20344;swg21996059;swg21610199;swg1PK46362,"Why does our Websphere application server hang when we apply Microsoft patch on our database server?"
+DEV_Q111,,0,,0.0000,swg21421672;swg21153401;swg1IX90144;swg1SE46234;swg21656901,"StaleConnectionException errors with BPM databases
+
+There is much published documentation about stal"
+DEV_Q112,swg21672071,0,,0.0000,swg21458833;swg21621401;swg1IZ52966,"Why does nco_confpack -export fail with the message ""Tool in menu but not found""?
+
+I tried to export"
+DEV_Q113,,0,,0.0000,swg1IV67087;swg21662022;swg21428536,"How to access Rule Team Server or Rule Execution Server on WAS 7 over HTTPS?
+
+When trying to connect"
+DEV_Q114,swg21989702,0,,0.0000,swg1IC62926;swg22005400;swg21050271;swg1IC97095;swg1IT12121,"Any difference between DB2 z/OS V9.1 + IBM Cobol and DB2 LUW V10.5 FP7 + MF Cobol?
+
+We are planning "
+DEV_Q115,,0,,0.0000,swg21959746;swg22011786;swg22005400;swg21996502;swg21996059,"Help with Security Bulletin: Apache Commons FileUpload Vulnerabilities in IBM WebSphere MQ File Tran"
+DEV_Q116,swg27042065,0,,0.0000,swg1PI20344;swg22005400;swg1IT12121;nas8N1020185,"Upgrading from ibm bpm 8.5 to ibm bpm 8.5.5
+
+Hi there,
+
+I was wondering if it is possible to upgrade"
+DEV_Q117,,0,,0.0000,swg21380019;swg1IV60530;swg24039742;swg1IZ98704;swg21662022,"Migrating ITCAM for AD 7.1 agent to ITCAM for WebSphere Applications v7.2 agent
+
+Is there a suggeste"
+DEV_Q118,,0,,0.0000,swg21392308;swg21393660;swg1IV70541;swg21380855;swg1IC97095,"db2top abnormally ended with core dump during monitoring SQL statements
+
+I'm using DB2 9.7 FP6. The "
+DEV_Q119,swg21997033,0,,0.0000,swg1IT07105;swg22011786;swg21610199,"Why does the Dataserver service change from Healthy to Vulnerable after logging into StoredIQ Applic"
+DEV_Q120,swg21982354,0,,0.0000,swg1HE12621;swg21215742;swg21610199,"Why do we get server error message when running BIRT reports after upgrading to Atlas 6.0.3.3?"
+DEV_Q121,swg24017225,0,,0.0000,nas8N1020185;swg1IZ83730;swg21050271,"Job Execution Node for IIB V10
+
+I'm looking for a way in IIB V10 to execute/invoke scripts or jobs o"
+DEV_Q122,swg21969653,1,1,1.0000,swg21969653;swg22013228;swg21610199,"Importing Asset GL Errors
+
+When importing or syncing with assets, I receive the following error for "
+DEV_Q123,swg21419540,0,,0.0000,swg1SE46234;swg1IZ98704;swg1IX90144;swg1RS02449,"Resource registry with IIB
+
+Hi Team, 
+
+I do had a scenario to be accomplished in IIB, in which one i"
+DEV_Q124,,0,,0.0000,swg21964889;swg21969653;swg21380019;swg1IZ98704;swg21296885,"Is there a scripting feature in ITM?"
+DEV_Q125,,0,,0.0000,swg21621401;swg21421672;swg21249980;swg21650546;swg21610199,"Error when using profilePath parameter with BPMConfig to create a profile
+
+When creating a profile u"
+DEV_Q126,,0,,0.0000,swg1SE46234;swg21421672;swg21656901;swg1IV67087;swg21428536,"Why is WebSphere MQ connection failing when enabling SSL with AMQ9640 SSLPEER peer name error?
+examp"
+DEV_Q127,,0,,0.0000,swg21959746;swg22011786;swg22005400;swg21996502;swg22003005,"Help with Security Bulletin: Vulnerability in IBM Java Runtimes affect Websphere Business Modeler Ad"
+DEV_Q128,,0,,0.0000,swg21662022;swg21215742;swg21610199;swg21428536,"IIS/SSL related error after appliying FP41 on WAS7.0
+
+hi
+
+Getting below error while hitting the appl"
+DEV_Q129,swg21962588,0,,0.0000,swg22011786;swg21959746;swg21685764;swg22005400;swg21996059,"Help with Security Bulletin: Multiple vulnerabilities in IBM Java SDK affect IBM OS Images for Red H"
+DEV_Q130,,0,,0.0000,swg24041472;swg24041476;swg21590467;swg21671446;swg21393660,"Improve Performance of Decision Center and Rule Team Server (RTS)
+
+How can I improve the performance"
+DEV_Q131,,0,,0.0000,swg1HD89402;swg1HE11710,"Refining search results by content type in Quickr doesn't work as expected
+
+Question: Refining of se"
+DEV_Q132,swg21653905,0,,0.0000,swg1IZ98704;swg1IV60530,"What is the meaning of value ""unknown"" for ITCAM WAS Application Status attribute?"
+DEV_Q133,,0,,0.0000,swg21393660;swg21650546;swg1HE12359;swg21249980,"Do I need to backup /opt/ibm-ucd/server/var/sa/dialogue ?
+
+My UCD server has so many files in /opt/i"
+DEV_Q134,swg21512291,0,,0.0000,swg1IC92476;swg21468886;swg21650546;swg21968790,"I am receiving AC power supply failures on my DataPower 9235 appliance. How can I resolve this?
+
+I a"
+DEV_Q135,,0,,0.0000,swg1IC92476;swg1IT16940;swg21968790,"DataPower upgrade message Loading firmware failed: Preserve user modified data failed: Insufficient "
+DEV_Q136,,0,,0.0000,swg1JR52434;swg21970741;swg1PK08419,"Compose tab appears disabled and project is not editable in Decision Center
+
+I have upgraded my ODM "
+DEV_Q137,,0,,0.0000,swg24039742;swg21968790,"What things are important to consider when installing a fix pack for IIB running on a multi-instance"
+DEV_Q138,,0,,0.0000,swg21580345;swg1IC62926,"How to fix the DB2 errors in Portal ?
+
+How could we fix the below DB2 errors in WebSphere Portal:
+
+D"
+DEV_Q139,,0,,0.0000,swg22005400;swg22013087;swg21959746;swg22011786;swg21996059,"Help with Security Bulletin: IBM WebSphere MQ is affected by a privilege escalation vulnerability (C"
+DEV_Q140,swg21979066,0,,0.0000,swg21987275;swg1PI08596;swg1IC97095,"Why get SQL1227N when replay db2look output on DB2 V9.7 FP11?
+
+Why get below SQL1227N when replay db"
+DEV_Q141,swg21701910,0,,0.0000,swg21970741;swg1PI39800;swg21288640;swg1IV70541;swg21650546,"Why is OCR is putting multiple lines on one line?
+
+I am running an APT application, and multiple det"
+DEV_Q142,,0,,0.0000,swg1IV70541;swg21671446;swg21421672;swg1IT12121;swg1SE46234,"Invalid operation: result set is closed. ERRORCODE=-4470, SQLSTATE=null
+
+When using BPM, I see runti"
+DEV_Q143,,0,,0.0000,swg21278833;swg24039742;swg1IZ98704;swg21610199,"How can I configure J2EE Tomcat DC to run as Windows Service?
+
+I'm trying to configure ITCAM J2EE v7"
+DEV_Q144,,0,,0.0000,swg21380855;swg1SE46234;swg1VM17818;swg1PM58956,"CICS CM CCVI abends AEXZ on startup in CCVIINIT
+
+Why am I receiving an message DFHAC2236 with an abe"
+DEV_Q145,swg1PI47826,0,,0.0000,swg1IV70541;swg22008878;swg1IC97095,"Why is the reload() not clearing the attribute cache so I can see my newly updated LDAP data in real"
+DEV_Q146,,0,,0.0000,swg21883636;swg1IZ83730;swg21968790;swg24039742;swg22000851,"Gettting error CRIMC1020E: zip im.properties not found during BPM Fix Pack install
+
+During the BPM 7"
+DEV_Q147,,0,,0.0000,swg1IZ17689;swg24039742;swg21610199,"TEP to TEPS communication issues with different Java versions
+
+Recent Java updates have caused conne"
+DEV_Q148,,0,,0.0000,swg21572905;swg24039742;swg21662022;swg21421672,"How do I have to prepare WAS and BPM servers, if DST or time zones will change?
+
+Daylight Saving Tim"
+DEV_Q149,swg21974106,0,,0.0000,swg1OA55845;swg1IV67087;swg1IZ98704;swg21959746,"Why SSH connections fail after upgrade to v7.5.2 and above? The same configuration works on v7.2."
+DEV_Q150,,0,,0.0000,nas8N1020185;swg21653261;swg21685764,"Is Java 7 supported for BPM?
+
+What versions of BPM, if any,  support Java 7?"
+DEV_Q151,,0,,0.0000,swg21607732;nas8N1020185;swg21987275;swg21986535;swg22014350,"QUESTION_TITLE
+
+QUESTION"
+DEV_Q152,,0,,0.0000,swg21610199;swg21701017;swg1PH00908;swg21662022,"Why are we no longer able to login to the WAS Administrative Console after adding an Active Director"
+DEV_Q153,swg21409481,0,,0.0000,swg21421672;swg1RS02449;swg21621401,"Can we create Match design specification db in xmeta
+
+Could you please let me know if we can create "
+DEV_Q154,swg21598417,0,,0.0000,swg21996502;swg1IY99864;swg1IZ37843;swg1PM04538,"Why are some Datatypes corrupt after Impact cluster failover/failback ?
+
+Running Impact 7.1.0.11. Th"
+DEV_Q155,swg21445430,0,,0.0000,swg21580345,"What exactly is ""wpcollector"" in WebSphere Portal Server?
+
+I've been told to get wpcollector output?"
+DEV_Q156,swg21998655,0,,0.0000,swg21959746;swg22011786;swg21996059;swg21996502;swg22005400,"Help with Security Bulletin: Malicious File Download vulnerability in IBM Business Process Manager ("
+DEV_Q157,,0,,0.0000,swg21662022;swg21428536,"How do I configure TLS/SSL for an IIB web service provider and consumer?
+
+I'm investigating ways and"
+DEV_Q158,swg21960062,0,,0.0000,swg21428536;swg21380855;swg1PI95953;swg21249980,"Must the TOKEN_SEPARATOR value be enclosed in quotes for the custom scripting feature?"
+DEV_Q159,,0,,0.0000,swg21959746;swg22011786;swg22005400;swg21996059;swg21996502,"Help with Security Bulletin: IIB is affected by WebAdmin Session Timeout vulnerability (CVE-2017-169"
+DEV_Q160,swg21163875,0,,0.0000,swg21153401;swg21590467,"How to increase the HTTP Session time-out value for Workplace application on WebSphere Application S"
+DEV_Q161,swg21610844,0,,0.0000,swg1IZ52966;swg21996502;swg21458833,"Netcool/Impact 7.1.0: The StateChange value being used by the OMNIbusEventReader is too high
+
+The va"
+DEV_Q162,swg21972146,0,,0.0000,swg22011786;swg21996059;swg21996502;swg22013087;swg22003005,"Is there a security vulnerability in the IBM WebSphere Application Server shipped with IBM Tivoli Ne"
+DEV_Q163,,0,,0.0000,swg21421672;swg21580345;swg1SE46234;swg1PK08419,"How to fix XAER_RMFAIL messages in WebSphere Portal's SystemOut.log?
+
+SystemOut.log contains various"
+DEV_Q164,swg21647231,0,,0.0000,swg21408485;swg1PK66962;swg1SE46234,"When should I use conversation sharing in DataPower MQ queue managers?
+
+MQ version 7.0 introduced a "
+DEV_Q165,,0,,0.0000,swg1SE46234;swg1IC97095;swg1PI08596;swg21650546;swg1PI39800,"DSNT408I SQLCODE -401 creating stored procedure CIUSNTSR after upgrading to DB2 11
+
+Why would CIUSNT"
+DEV_Q166,,0,,0.0000,swg22011786;nas8N1020185;swg22003005,"Which version of the WebSphere MQ Resource Adapter is shipped with  WebSphere Application Server?
+
+W"
+DEV_Q167,swg21580830,0,,0.0000,swg21960879;swg1HE12621;swg1HE11710;swg21671446,"How do I recreate all the Oracle Text indexes for the Atlas database ?"
+DEV_Q168,,0,,0.0000,swg21468886;swg1SE46234;swg21656901;swg1IC92476;swg1IV67087,"IBM Integration Designer could not connect to the DataPower appliance.
+
+I am using WDP XI52 with Fir"
+DEV_Q169,,0,,0.0000,swg21685764;swg21215742;swg21996059;swg1SE46234;nas8N1020185,"Migrating to JRules v7.1
+
+How do I migrate to WebSphere ILOG JRules v7.1?"
+DEV_Q170,,0,,0.0000,swg22008878;swg1PK08419;swg1IC92476,"ODR OOM issue
+
+I got ODR OOM after upgrading the WAS to v8553. No configuration or traffic load chan"
+DEV_Q171,swg1PI34677,0,,0.0000,swg21580345;swg24039742;swg21653261,"Error: ""MBEANSTARTER LOADEXTENSIONS FAILED TO LOAD EXTENSION"" occurs at portal startup
+
+We are using"
+DEV_Q172,,0,,0.0000,swg1JR52434;swg1PI80202;swg21421672;swg21393660,"What's the procedure to drop an user in Cognos Disclosure Management?
+
+O.S AIX 7.1
+
+Cognos Disclosur"
+DEV_Q173,,0,,0.0000,swg21671446;swg1PK08419;swg1IV70541,"ORA-01795 Error accessing Decision Center Business Console 8.7
+
+I am working with ODM 8.7.0.0 when a"
+DEV_Q174,swg21658019,0,,0.0000,swg22015658;swg21672896;swg21960879,"Datacap on Citrix
+
+Hi All,
+
+Can we operate Datacap thin clients on citrix?"
+DEV_Q175,swg21578744,0,,0.0000,nas8N1020185;swg21153401,"Would like to know if WebSphere Extreme Scale  is leap year and leap second compliant. Is there any "
+DEV_Q176,swg21578744,0,,0.0000,nas8N1020185;swg21153401,"Would like to know if WebSphere Extreme Scale  is leap year and leap second compliant. Is there any "
+DEV_Q177,,0,,0.0000,swg24039742;swg21288640;swg21380855;swg21968790;swg21962890,"After AIX TL/SP/FP update my TSAMP cluster no longer functions.
+
+After applying update to AIX to bri"
+DEV_Q178,,0,,0.0000,nas8N1020185;swg1IV60530,"Need support info for ITCAM and WAS 8.5.5.x monitoring
+
+What ITCAM for AD/WAS versions and maintenan"
+DEV_Q179,swg22014367,0,,0.0000,swg21959746;swg22011786;swg21685764;swg21996059;swg22003005,"Help with Security Bulletin: Vulnerabilities in OpenSSL affect WebSphere MQ 5.3 and MQ 8 for HPE Non"
+DEV_Q180,swg21964873,0,,0.0000,swg21959746;swg22011786;swg22005400;swg21996502;swg21996059,"Help with Security Bulletin: Security Vulnerability in IBM PureApplication System. (CVE-2015-1920)
+
+"
+DEV_Q181,swg21569933,0,,0.0000,swg1IY99864;swg21572905;swg21964889;swg1IV70541;swg1HE12359,"Get all data that\'s registred today
+
+Version: 
+MxLoader 4.7.4
+                        
+
+Problem:
+Is"
+DEV_Q182,swg22010090,0,,0.0000,swg21959746;swg22011786;swg21996059;swg21996502;swg22005400,"Help with Security Bulletin: Multiple vulnerabilities in IBM Java Runtime affect IIB and WMB
+
+I need"
+DEV_Q183,swg21607690,0,,0.0000,swg21607732;swg24030694;swg21883636,"Is there a support's guide to the MTTrapd probe ?
+
+Where do you download the Support's guide to the "
+DEV_Q184,swg21584783,0,,0.0000,swg21421672;swg1PM70736;swg1PK08419;swg1SE46234;swg21591133,"Why am I seeing ""CWSXM0100E: Multiple replies have been produced for a single request flow in module"
+DEV_Q185,,0,,0.0000,swg21650546;swg21968790;swg1SE46234,"What can I do when I receive CWZIP9602E, CWZIP9604W and CWZIP4514E with Call Home?
+
+I received the f"
+DEV_Q186,swg21608744,1,1,1.0000,swg21608744;swg21512700;swg21883636,"Silent uninstall of ITCAM for MQ agent fails
+
+Running silent uninstall of the ITCAM for MQ agent wit"
+DEV_Q187,swg22007002,0,,0.0000,swg22011786;swg21959746;swg21996059;swg22005400,"Help with Security Bulletin: Multiple Vulnerabilities identified in IBM Java SDK affect WSRR
+
+I need"
+DEV_Q188,swg21614208,0,,0.0000,swg21607732;swg24038805;swg27015581,"Is there a support's guide to the CORBA Probes?
+
+Where can I download the support's guide to the IBM"
+DEV_Q189,,0,,0.0000,swg21607732;swg21986535;swg21477392;swg21392308;swg21694202,"How to wrap table column text in list tab for a specific table?
+
+I would like to wrap the text of ta"
+DEV_Q190,,0,,0.0000,swg1IV60530;swg1IZ98704;swg21050271,"Is it possible to use  Java large pages (-Xlp) parm with ITCAM?  Is this supported?
+
+Is it possible "
+DEV_Q191,,0,,0.0000,swg21883636;swg1IZ83730;swg24038805;swg21608744;swg21662022,"Why does my install of the latest Installation Manager on a Linux Ingram Server not function?"
+DEV_Q192,swg21511831,0,,0.0000,swg1IJ03852;swg21599539;swg21969064;swg1HE05535;swg21701017,"Cannot open module in exclusive edit - (no such file or directory)
+
+Hello.
+
+I have a module, that I "
+DEV_Q193,swg22005197,0,,0.0000,swg21607732;swg1PI80202;swg1OA55845;swg1SE46234,"Are there any probes that can connecto the Nokia NSP EPC v17.9 and Nokia NSP RAN v17.3 using JMS/HTT"
+DEV_Q194,,0,,0.0000,swg21393660;swg21392308;swg1PK46362;swg1IV70541,"How to generate Javacores automatically in on hung threads reported in SystemOut.log for WebSphere A"
+DEV_Q195,swg21959224,0,,0.0000,swg27048798;swg1PI95953;swg21662022,"TLS protocol with ITCAM for Datapower
+
+We have a DataPower appliance with TLS security protocol enab"
+DEV_Q196,swg21577970,0,,0.0000,swg21969064;swg1PM66053;swg21883636;swg21512700,"Error while installing SpSS modeler trial version
+
+I have downloaded the SPSS modeller trial version"
+DEV_Q197,,0,,0.0000,swg21959746;swg22011786;swg21996502;swg21996059,"Help with Security Bulletin: WMB and IIB are affected by 'Information Disclosure' vulnerability
+
+I n"
+DEV_Q198,,0,,0.0000,swg1SE46234;swg1IV70541;swg21380855;swg1PM58956,"Why is CSV002I occurring for CSQADITB?
+
+An application is getting repeated errors: 
+CSV002I REQUESTS"
+DEV_Q199,,0,,0.0000,swg21421672;swg1SE46234;swg21392308,"How do I resolve a WSVR0605W hung thread issue in the WebSphere MQ Resource Adapter?
+
+The following "
+DEV_Q200,,0,,0.0000,swg1RS02449;swg21671446;swg27050564;swg21672896;swg24039742,"Improve Performance of Rule Designer (ODM) and Rule Studio (JRules)
+
+How can I improve the performan"
+DEV_Q201,swg21679979,0,,0.0000,swg21970741;swg21701017;swg24039742;swg22008878,"Why are HTML documents not rendering  and just shown as plain text after upgrading and installing if"
+DEV_Q202,swg21631478,0,,0.0000,swg21883636;swg1IZ83730;swg24038805;swg21996502;swg24030694,"Why is installation manager cores when try to install netcool using GUI mode in AIX 7.1?
+
+IBM Instal"
+DEV_Q203,,0,,0.0000,swg21421672;swg1SE46234;swg21153401;swg21392308;swg1IX90144,"Why WebSphere Application Server transactions are rolled back with these StaleConnectionExceptions?
+"
+DEV_Q204,swg21903101,0,,0.0000,swg21050271;nas8N1020185;swg27015581,"Best WTX Version to Upgrade to
+
+We're a longtime TSI / Mercator / Ascential / WTX user (1996) in the"
+DEV_Q205,,0,,0.0000,swg21215742;swg21512700;swg21599539,"Launching IBM Rational Software Architect application results in Error: Java was started but returne"
+DEV_Q206,swg21672071,0,,0.0000,swg21458833;swg21621401;swg1IZ52966,"Why does nco_confpack -export fail with the message ""Tool in menu but not found""?
+
+I tried to export"
+DEV_Q207,,0,,0.0000,swg21477392;swg27050564;swg21477442;swg21969064;swg21986535,"Improve Performance of Decision Validation Services (DVS) and Decision Warehouse
+
+How can I improve "
+DEV_Q208,swg21691034,0,,0.0000,swg21580345;swg21610199;swg24039742;swg21621401,"Error TASK001X while upgrading Portal 8.0.0.1 to 8.0.0.1 CF14 during import-nodes sub-task
+
+While at"
+DEV_Q209,swg21696083,0,,0.0000,swg21694202;swg21610199,"How to change the maximum string length for properties in FileNet Administration Console for Content"
+DEV_Q210,swg21067352,0,,0.0000,swg21380855;swg21599539;swg21964889;swg21671446,"startNode failed with ADML3000E after a deployment failure
+
+Client had a deployment failure due to """
+DEV_Q211,swg27050154,0,,0.0000,swg21142296;swg1PM63509;swg1PM58956,"You want to know how to make persistent the events that indicate when a queue manager has started an"
+DEV_Q212,,0,,0.0000,swg22013228;swg21671446;swg21477392;swg21461735;swg21580345,"Datacap 9.0.1 Application Manager not saving database configs
+
+Hi All,
+
+ 
+I have installed Datacap 9"
+DEV_Q213,swg21648471,0,,0.0000,swg21970741;swg1HE11710,"Can I migrate or convert Workplace XT created Search Templates to Content Navigator?
+
+When migrating"
+DEV_Q214,,0,,0.0000,swg21461735;swg21392308;swg27050564;swg21380855;swg21580345,"Why is my PDWDB flooded with irrelevant tracking data which is not related to process instances ?
+
+M"
+DEV_Q215,swg21647231,0,,0.0000,swg21408485;swg1PK66962;swg22005400,"When should I use conversation sharing in DataPower MQ queue managers?
+
+MQ version 7.0 introduced a "
+DEV_Q216,swg21480262,0,,0.0000,swg21969064;swg1PM66053;swg21477392,"Error message 1311 when attempting to install SPSS 23 on Windows 10.
+
+I have downloaded SPSS 23 onto"
+DEV_Q217,,0,,0.0000,swg1PM66053;swg21973794;swg24030694;swg22000851,"What process do i neet to follow to upgrade our SPSS Modeler deployment (concurrent license) from v1"
+DEV_Q218,swg21984588,0,,0.0000,swg22005400;swg1PI95953;swg22003005;swg1IT16940,"Why is MQ pattern showing installed MQ version as 8.0.0.2, instead of 8.0.0.4 when client tries to d"
+DEV_Q219,,0,,0.0000,swg21296885;swg1IV70541;swg1HE12359;swg21964889;swg24039742,"Big increase in the amount of trace spool data from TSAMP
+
+Recently it was noticed that our trace sp"
+DEV_Q220,swg21960375,0,,0.0000,swg22011786;swg21959746;swg21996059;swg22005400;swg21996502,"Help with Security Bulletin: TLS padding vulnerability affects IBM PureApplication System (CVE-2014-"
+DEV_Q221,swg21452870,0,,0.0000,swg21969064;swg21392308;swg21970741,"App Connect Professional (formerly Cast Iron) Studio not launching
+
+When trying to start App Connect"
+DEV_Q222,,0,,0.0000,swg21685764;swg22013087;swg21959746;swg22011786;swg22003005,"Help with Action required for IIB H.E. V9 & WMB H.E. V8 for security vulnerabilities in Red Hat Linu"
+DEV_Q223,,0,,0.0000,swg27015581;swg22008878;swg21580345;swg22011786,"Can I use Chrome browser for viewing Monitor 801 Cognos report viewer widget ?
+
+Some users use Chrom"
+DEV_Q224,swg21696267,0,,0.0000,swg21662022;swg21428536;swg1PI36050,"How do we set HttpOnly and secure flag in Oracle Weblogic 12c to secure IBM Atlas?"
+DEV_Q225,swg21664629,0,,0.0000,swg21610199;swg21580345;swg1PH00908;swg22005400,"Non-admin users cannot access webDAV filestore. What is the likely reason?
+
+A non-admin user trying "
+DEV_Q226,,0,,0.0000,nas8N1020185;swg1IX90144;swg21215742;swg22003005;swg21599539,"How to check IBM Java ORB build version in WebSphere Application Server?
+
+Just a simple question:How"
+DEV_Q227,,0,,0.0000,nas8N1020185;swg21653261;swg21685764,"Is Java 7 supported for BPM?
+
+What versions of BPM support Java 7?"
+DEV_Q228,,0,,0.0000,swg1RS02449;swg1PK08419;swg1IX90144;swg21969653,"javax.xml.bind.UnmarshalException org.xml.sax.SAXParseException: The reference to entity must end wi"
+DEV_Q229,swg21609958,0,,0.0000,swg1JR52434;swg21509510;swg21701017,"Can I hide left menu pane for specific application?
+
+Is it possible to disable the left navigation p"
+DEV_Q230,swg21066791,0,,0.0000,swg21392308;swg1IV70541;swg1IX90144;swg1SE46234;swg21970741,"Java.io.NotSerializableException in WAS
+
+We are experiencing the Java.io.NotSerializableException ex"
+DEV_Q231,,0,,0.0000,swg22011786;swg21996059;swg21996502;swg22013087,"What IBM Business Process Manager version is affected by the Apache Commons FileUpload vulnerability"
+DEV_Q232,,0,,0.0000,swg21050271;nas8N1020185;swg1IX90144;swg22003005,"CICS TS support for IBM SDK Java Version 8
+
+Do any of the current releases of CICS Transaction Serve"
+DEV_Q233,,0,,0.0000,swg21393660;swg21964889;swg1IV70541,"How does configuring ""hung threads detection"" impact performance of a production WAS server?
+
+I took"
+DEV_Q234,swg21666489,0,,0.0000,swg21650546;swg21968790;swg21960972;swg21610199,"TCR 2.1.1 Fixpack 2 installation failed
+
+I need to install Fixpack 2 on my TCR 2.1.1 environment, bu"
+DEV_Q235,swg22001630,0,,0.0000,swg21959746;swg22011786;swg21996059;swg22005400;swg21996502,"Security Bulletin: A vulnerability in IBM Java Runtime affects IBM WebSphere MQ (CVE-2016-3485)
+
+I n"
+DEV_Q236,,0,,0.0000,swg21959746;swg22011786;swg21996059;swg21996502;swg22005400,"Security Bulletin: Multiple vulnerabilities in IBM Java Runtime affect API Connect
+
+I need to unders"
+DEV_Q237,,0,,0.0000,swg21591133;swg1PK08419;swg1PM70736;swg21296885;swg1PM58956,"Traffic across domains seems unexpected
+
+I have two Multi-Protocol Gateways (MPGWs) configured, each"
+DEV_Q238,,0,,0.0000,swg21996502;swg24039742;swg1IZ83730;swg21968790,"recently installed Impact 7.1.0. fixpack 3, now when ever start the secondary impact server, the pri"
+DEV_Q239,swg21330011,0,,0.0000,swg21249980;swg1PI39800;swg1IV67087,"Cannot launch RFT 8.2
+
+Hello.
+
+Could anyone can help to see why I cannot launch RFT 8.2? When I laun"
+DEV_Q240,swg21986219,0,,0.0000,swg1SE46234;swg21599539;swg21477392;swg21380855;swg21964889,"Port number error starting 9.0 Launcher
+
+I'm attempting to start up v9.0 for the first time with one"
+DEV_Q241,,0,,0.0000,swg21393660;swg1IZ83730;swg21249980;swg21590467;swg21392308,"When and why Apache Storm process of ITNM creating db2 files in /tmp?
+
+When and why should the follo"
+DEV_Q242,swg21641516,0,,0.0000,swg21580345;swg21393660;swg24039742,"IBM Support Assistant data collector for BPM
+
+What can I use to obtain some standard information in "
+DEV_Q243,swg21684407,0,,0.0000,swg21498516;swg1PI39800;swg22013228,"Using cobol copybooks
+
+Sometimes, there will be errors/fields missing in typetree, while importing c"
+DEV_Q244,swg21694876,0,,0.0000,swg21964889;swg1HE12359;swg21969653;swg22008878;swg1PK08419,"How to clear Errors Found in crm_mon"
+DEV_Q245,swg21988389,0,,0.0000,swg1HD89402;swg1PI39800;swg1IX90144;swg1RS02449,"Problem with XMLLIB->VALIDATEEX during XML Validation
+
+I am using XMLLIB VALIDATEXX in WTX 8.3.0.5 f"
+DEV_Q246,,0,,0.0000,swg21964889;swg1IC74154;swg24030694;swg1HE12359,"What is the latest version of the Log File Agent?"
+DEV_Q247,,0,,0.0000,swg21392308;swg21215742;swg1IX90144;swg1IJ03852;swg1SE46234,"IID 8.5.7 failed to start due to ""Java was started but returned exit code=-805306369""
+
+We have insta"
+DEV_Q248,,0,,0.0000,swg1IV67087;swg1JR52434;swg1VM17818,"missing VM manager data
+
+we are missing VM manager data for 13 servers. error: invalid credentials -"
+DEV_Q249,swg21998663,0,,0.0000,swg22005400;swg21959746;swg22011786;swg21996059,"Help with Security Bulletin: IBM WebSphere MQ Administration command could cause denial of service ("
+DEV_Q250,,0,,0.0000,swg21959746;swg22011786;swg22005400;swg21996059;swg21996502,"Help with Security Bulletin: IIB is affected by Node.js security vulnerability ( CVE-2017-1000381 an"
+DEV_Q251,,0,,0.0000,swg21142296;swg1SE46234,"MQ jobs and some user jobs are in semaphore wait (SEMW) status
+
+After upgrading WMQ on IBM i, MQ job"
+DEV_Q252,,0,,0.0000,swg21153401;swg21421672;swg21392308,"How to resolve the StaleConnectionException in WebSphere Application Server?
+
+I see this exception i"
+DEV_Q253,swg27042658,0,,0.0000,swg1HE12359;swg1HE11710;swg21969064;swg27048798,"Want to find out if Microsoft Edge is supported with ICC?
+
+Want to find out Microsoft Edge is suppor"
+DEV_Q254,swg21980860,0,,0.0000,swg21380855;swg1SE46234;swg21883636;swg1PM58956,"Why do I receive the message, ""IKJ79154I INSTALLATION EXIT IKJEESX0 REQUESTED TERMINATION. "" for a T"
+DEV_Q255,,0,,0.0000,swg1IT12121;swg1IC62926;swg22005400;swg24039742;swg21591133,"The BPM Messaging engine is not active after DB2 Fix Pack upgrade. How to resolve this problem?
+
+The"
+DEV_Q256,,0,,0.0000,swg1PI95953;swg1PK66962;swg1SE46234;swg1IT16940;swg1PM58956,"mqsireportdbparms missing?
+
+The mqsireportdbparms command described in the following knowledge cente"
+DEV_Q257,swg21959281,0,,0.0000,swg21590467;swg21380019;swg21153401;swg21421672;swg24039742,"How to control SDMS database size?
+
+Hi,
+
+ITCAM for SOA 7.1.1 was installed about 3 years ago. I alre"
+DEV_Q258,swg21653905,0,,0.0000,swg1IV60530;swg1IZ98704,"What is the meaning of value ""unknown"" for ITCAM WAS Application Status attribute?
+
+I am getting ale"
+DEV_Q259,,0,,0.0000,swg24039742;swg21509510;swg21580345,"Subnodes are still present on TEP after unconfiguring SOA DC
+
+After unconfiguring the ITCAM for SOA "
+DEV_Q260,swg24041394,0,,0.0000,swg21392308;swg21610199;swg1IV70541,"Crash happened due to ""PI50993:Apache HTTPComponents vulnerabilities in WebSphere Application Server"
+DEV_Q261,swg1PI47826,0,,0.0000,swg1IV70541;swg22008878;swg21981551,"Why is the reload() not clearing the attribute cache so I can see my newly updated LDAP data in real"
+DEV_Q262,swg21412846,0,,0.0000,swg1IC97095;swg1PI08596;swg21477392;swg21477442,"Table """"."""" could not be found
+
+When doing a table mapping with DB2 as source, selecting a table whi"
+DEV_Q263,swg21675742,0,,0.0000,swg21393660;swg21142296;swg21964889;swg21468886,"How can I check the health of my IBM PureApplication System?
+Are there steps to verify that my syste"
+DEV_Q264,,0,,0.0000,swg21883636;swg1IZ83730;swg21968790;swg22000851;swg24039742,"Gettting error CRIMC1020E: zip im.properties not found during BPM Fix Pack install
+
+During the BPM 7"
+DEV_Q265,,0,,0.0000,swg21572905;swg21694202;swg21968790,"Will the Leap Second 2015 update have any impact with FileNet Content Manager?"
+DEV_Q266,swg24037641,0,,0.0000,swg24039742;swg24030694;swg21512700,"How to install Packaging utility?"
+DEV_Q267,swg21606028,0,,0.0000,swg21215742;swg21512700;swg21599539,"Can you enable the reporter feature with IBM Rational Rhapsody Architect Software Floating license?"
+DEV_Q268,swg1PI53566,0,,0.0000,swg1IC97095;swg22008878;swg1PK08419;swg21968790,"ODR OOM issue
+
+I got ODR OOM after upgrading the WAS to v8553. No configuration or traffic load chan"
+DEV_Q269,,0,,0.0000,swg21428536;swg21662022;swg21959746;swg1IV67087,"Executing a scenario suite with a Scenario Service Provider (SSP) over HTTPS
+
+How to configure the m"
+DEV_Q270,,0,,0.0000,nas8N1020185;swg21995591;swg22005400;swg1SE46234;swg21685764,"What version / level of Java JRE and GSKit is included with each WebSphere MQ version?
+
+What version"
+DEV_Q271,swg24031674,0,,0.0000,swg21477392;swg24039742;swg22015658;swg21672896,"Problem with Postal database in Parascript
+
+Hi
+
+i am working with Parascript and i have installed su"
+DEV_Q272,,0,,0.0000,swg21050271;swg21380855;swg21656901;nas8N1020185,"z/OS Connect Enterprise Edition 3.0 and 2.0 compatibility with CICS TS 5.4
+
+Can z/OS Connect Enterpr"
+DEV_Q273,,0,,0.0000,swg1SE46234;swg22003005;swg21392308;swg21656901,"Why am I now seeing an SqlDataException for Unsupported ccsid, encoding, or locale after moving to J"
+DEV_Q274,,0,,0.0000,swg1IV67087;swg21428536,"VMware agent SSL hand shake failure after ESX upgrade
+
+We did an update to our VCentre server, bring"
+DEV_Q275,swg21417266,0,,0.0000,swg21392308;swg21672896;swg1IV70541;swg21653261,"Jobtask long description
+
+How do I modify the JP sheet to include the JOBTASK Long description in th"
+DEV_Q276,,0,,0.0000,swg1HE05535;swg21619985;swg1RS02449;swg21969653;swg21883636,"MessageSet Project cannot be referenced in multiple Applications
+
+The same MessageSet Project cannot"
+DEV_Q277,swg21665086,0,,0.0000,swg21662022;swg21580345;swg24039742,"Is transient user support available for SAML integration with WebSphere Portal 8.0?
+
+I am looking to"
+DEV_Q278,,0,,0.0000,swg21591133;swg21969653;swg21421672;swg1PM04538,"Can I change the UUID value on the Messaging Engine?
+
+After dropping the SIB object, a new UUID valu"
+DEV_Q279,swg21988939,0,,0.0000,swg21421672;swg27050564;swg1PI08596;swg21050271,"Are there any known issue or limitation to LOAD data using ADMIN_CMD stored procedure?
+
+Hello,
+
+We h"
+DEV_Q280,,0,,0.0000,nas8N1020185;swg21050271,"Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10?
+
+When will WebSphe"
+DEV_Q281,swg21975568,0,,0.0000,swg21701017;swg21970741;swg24039742;swg1JR52434;swg21580345,"'Save and Close' and 'Save' buttons grayed out in desktop configuration
+
+In IBM Content Navigator, w"
+DEV_Q282,swg21978428,0,,0.0000,swg1IZ51252;nas8N1020185;swg21996502,"Does the IBM Netcool Omnibus ServiceNow Gateway support Geneva Release ?
+
+Users of this gateway are "
+DEV_Q283,swg21592093,0,,0.0000,swg21969064;swg1PM66053;swg21973794,"Hello - I recently installed SPSS 20, my temporary period for running spss has expired, I am in need"
+DEV_Q284,,0,,0.0000,swg1IC97095;swg22005400;swg21591133;swg1IV71904,"iLMT - incomplete virtualisation hierarchy
+
+this query is regarding support case 1109598 that has be"
+DEV_Q285,,0,,0.0000,swg1IT12121;swg1PI20344;swg21392308;swg22005400;swg21995591,"Why is the file db2jcc.jar missing after an upgrade to BPM V8.5.7 CF2016.12?
+
+After upgrading to IBM"
+DEV_Q286,,0,,0.0000,swg21672896;swg24039742;swg21142296,"Executing an in-flight task for a deactivated snapshot for WebSphere Lombardi Edition and IBM Busine"
+DEV_Q287,swg22001558,0,,0.0000,swg1IT07105;swg21477392;swg21656901;swg21960972,"Why I am not able to login to StoredIQ Dataserver and Getway using ssh?"
+DEV_Q288,swg21639640,0,,0.0000,nas8N1020185;swg22003005;swg21995591,"Is Java 8 supported for BPM?
+
+I understand that support for Java 6 on WebSphere Application Server i"
+DEV_Q289,,0,,0.0000,swg21970741;swg21421672;swg21580345;swg21969653;swg24039742,"A NullPointerException appears in BPC Explorer in BPM after upgrading, how do I resolve this?
+
+null "
+DEV_Q290,swg21967756,0,,0.0000,swg21278833;swg24039742;swg21296885;swg1IZ98704,"Is using a monitored JBoss server with ITCAM supported in a Windows Service?"
+DEV_Q291,swg21639640,0,,0.0000,nas8N1020185;swg21995591,"Is Java 8 supported for BPM?
+
+I understand that support for Java 6 on WebSphere Application Server i"
+DEV_Q292,swg21566663,0,,0.0000,swg1HE11710;swg1PJ36075;swg1IC97095;swg21970741,"Content Engine System Health Page page doesn't reflect correctly, Fixed Content Advise and Storage A"
+DEV_Q293,,0,,0.0000,swg24039742;swg24030694;swg21278833;swg24038805,"BPM installation packages and deployment options
+
+What is the difference between ""Advanced"" and ""Adv"
+DEV_Q294,,0,,0.0000,swg21969064;swg1PM66053;swg21477392;swg21656901,"Error #2070
+
+I purchased the SPSS grad pack and put one of the licenses on one computer and another "
+DEV_Q295,,0,,0.0000,swg21393660;swg1IV70541;swg21392308;swg1SE46234,"Why are we seeing high CPU and hung threads in WebSphere Application Server?
+
+During the job executi"
+DEV_Q296,swg21663414,0,,0.0000,swg21393660;swg1IV70541;swg24039742;swg21468886;swg21153401,"Does the BPM internal Document Store work with IBM DB2 pureScale?
+
+I use IBM DB2 pureScale with my B"
+DEV_Q297,,0,,0.0000,swg1RS02449;swg21650546;swg21580345,"res-deploy-xom ant task does not deploy xom based on checksum difference when xom is a .zip extensio"
+DEV_Q298,swg27035841,0,,0.0000,swg22015658;swg21498516;swg21672896,"can Datacap support to Arabic language?"
+DEV_Q299,swg21500040,0,,0.0000,swg21987275;swg21969064;swg1IZ37843;swg1IY99864;swg1HD89402,"Netcool/Impact 6.1.1: Policy Custom Function not getting variable value
+
+Custom Function call:
+
+    "
+DEV_Q300,swg21438047,0,,0.0000,swg1IC97095;swg1IC62926;swg21461735;swg21477442,"DB2 Non Reclaimable Storage .
+
+We have tablespaces defined under DB2 9.5 that apparently are not abl"
+DEV_Q301,,0,,0.0000,swg21969064;swg1PM66053;swg21653261;swg21656901,"SPSS 24 License
+
+Hi, Just restored my Mac from a back up. My license code stoped working. I get this"
+DEV_Q302,swg21412061,0,,0.0000,swg1IT07105;swg21468886;swg21656901;swg22014350,"How can I export a private key from DataPower Gateway Appliance?
+
+Is it possible to export a private"
+DEV_Q303,swg21690658,0,,0.0000,swg21153401;swg21590467,"Why are the users unable to login to Web GUI 8.1 after I modify timeout to 2147483647 in security.xm"
+DEV_Q304,swg21612222,0,,0.0000,swg21428536;swg21468886;swg21656901;swg22014350;swg21981551,"Does IBM DataPower Gateway Appliance support the HTTP CONNECT method?
+
+Does IBM DataPower Gateway Ap"
+DEV_Q305,swg21656263,0,,0.0000,swg21580345;swg1IV70541;swg1HE11710;swg21621401;swg24039742,"Cognos Analytics - Images not displayed in PDF/Excel, working in HTML
+
+I've just completed an upgrad"
+DEV_Q306,swg21642839,0,,0.0000,swg21672896;swg1IV70541;swg21509510;swg21671446;swg1PJ36075,"Unable to view batches in DotEdit
+
+Hi all,
+
+Is there any limitation to view batches in Dot Edit clie"
+DEV_Q307,swg22014367,0,,0.0000,swg21959746;swg22011786;swg22013087;swg21996059;swg22003005,"Help with Security Bulletin: Vulnerabilities in OpenSSL affect WebSphere MQ 5.3 for HP NonStop Serve"
+DEV_Q308,,0,,0.0000,swg1PM63509;swg1PM58956;swg1IZ37843;swg1IZ17689;swg1IV67087,"Suppose I can well describe my problem and my symptoms - what is the best way to find a matching sol"
+DEV_Q309,,0,,0.0000,swg21959746;swg22011786;swg21996059;swg22005400,"Help with Security Bulletin: Vulnerability in Diffie-Hellman ciphers known as Logjam affects WMB & I"

@@ -1,0 +1,30 @@
+{
+  "name": "@pkg/eval",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist",
+    "retrieval": "node --env-file=../../.env.local --import tsx ./bin/eval.ts"
+  },
+  "dependencies": {
+    "@pkg/db": "workspace:^",
+    "@pkg/ingest": "workspace:^",
+    "@pkg/retrieval": "workspace:^",
+    "@pkg/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "@pkg/config": "workspace:*",
+    "@types/node": "^22.13.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
