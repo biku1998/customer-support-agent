@@ -152,7 +152,21 @@ export type Database = {
       [_ in never]: never
     }
     Functions: {
-      [_ in never]: never
+      match_sections: {
+        Args: {
+          filter_technote_id?: string
+          match_count?: number
+          query_embedding: string
+        }
+        Returns: {
+          content: string
+          heading: string
+          id: string
+          section_idx: number
+          similarity: number
+          technote_id: string
+        }[]
+      }
     }
     Enums: {
       [_ in never]: never
