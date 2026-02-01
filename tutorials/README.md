@@ -76,8 +76,8 @@ flowchart LR
     LLM[Answer + citations]
   end
 
-  subgraph eval [Eval]
-    RetrievalEval[Recall@k MRR]
+  subgraph evalBlock [Eval]
+    RetrievalEval["Recall@k, MRR"]
     GroundedEval[Citation validity]
     Regression[Golden set gates]
   end
