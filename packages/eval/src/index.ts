@@ -23,3 +23,22 @@ export {
   type GroundedEvalDetail,
   type GroundedEvalReport,
 } from "./runners/groundedEval.js";
+
+export {
+  runRegression,
+  formatRegressionSummary,
+  formatRegressionAsCSV,
+  DEFAULT_THRESHOLDS,
+  type QualityThresholds,
+  type RegressionOptions,
+  type RegressionDetail,
+  type RegressionMetrics,
+  type ThresholdResult,
+  type RegressionReport,
+} from "./runners/regression.js";
+
+export {
+  GOLDEN_SET_IDS,
+  filterToGoldenSet,
+  validateGoldenSet,
+} from "./data/goldenSet.js";

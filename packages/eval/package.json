@@ -14,9 +14,11 @@
     "typecheck": "tsc --noEmit",
     "clean": "rm -rf dist",
     "retrieval": "node --env-file=../../.env.local --import tsx ./bin/eval.ts",
-    "grounded": "node --env-file=../../.env.local --import tsx ./bin/grounded.ts"
+    "grounded": "node --env-file=../../.env.local --import tsx ./bin/grounded.ts",
+    "regression": "node --env-file=../../.env.local --import tsx ./bin/regression.ts"
   },
   "dependencies": {
+    "@mastra/evals": "^1.0.1",
     "@pkg/agent": "workspace:^",
     "@pkg/db": "workspace:^",
     "@pkg/ingest": "workspace:^",
